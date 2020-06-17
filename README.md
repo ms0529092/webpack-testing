@@ -1,4 +1,4 @@
-<h1>webpack.config</h1>
+<h1>webpack.config設定練習</h1>
 
 <h3>Usertory</h3>
 <ul>
